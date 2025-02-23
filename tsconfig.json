@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "module": "CommonJS",
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "moduleResolution": "node",
+        "lib": ["ES2020", "DOM", "ESNext.AsyncIterable"],
+        "declaration": true,
+        "sourceMap": true,
+        "baseUrl": "./src",
+        "paths": {
+            "@/*": ["*"],
+            "@services/*": ["services/*"],
+            "@utils/*": ["utils/*"],
+            "@types/*": ["types/*"]
+        }
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist",
+        "**/*.test.ts"
+    ]
+  }

@@ -1,0 +1,14 @@
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:40:47.091Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:40:47.092Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:42:27.269Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:42:27.270Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:44:25.417Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:44:25.418Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:47:04.483Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:47:04.484Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:47:28.679Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T17:47:28.680Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T19:53:12.249Z"}
+{"error":{},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-21T19:53:12.250Z"}
+{"error":{"cause":{"code":"ENOTFOUND","errno":"ENOTFOUND","message":"request to https://api.groq.com/openai/v1/chat/completions failed, reason: getaddrinfo ENOTFOUND api.groq.com","type":"system"}},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-23T14:06:14.164Z"}
+{"error":{"cause":{"code":"ENOTFOUND","errno":"ENOTFOUND","message":"request to https://api.groq.com/openai/v1/chat/completions failed, reason: getaddrinfo ENOTFOUND api.groq.com","type":"system"}},"level":"error","message":"Error processing message","sessionId":"ws","timestamp":"2025-02-23T14:06:14.166Z"}
